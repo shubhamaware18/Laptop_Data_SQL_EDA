@@ -1,6 +1,6 @@
 # Laptop Data Analysis Project
 
-![Laptops Data Analysis(EDA)](https://github.com/shubhamaware18/SQL-Pizza-Sales-Case-Study/blob/main/artifacts/image.png)
+![Laptops Data Analysis(EDA)](https://github.com/shubhamaware18/Laptop_Data_SQL_EDA/blob/main/artifacts/image.jpg)
 
 This project aims to perform data cleaning, feature creation, exploratory data analysis (EDA) using SQL with MySQL, and building a model for price prediction based on laptop data. The dataset includes information about various laptops, such as company, type, screen size, CPU, RAM, memory, GPU, operating system, weight, and price.
 
