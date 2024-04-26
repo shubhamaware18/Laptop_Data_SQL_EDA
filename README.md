@@ -64,6 +64,6 @@ The dataset used in this project contains the following columns:
 
 ## Contributors
 
-- [Shubham Aware] ([Your GitHub Profile](https://github.com/awareshubham18))
+- [Shubham Aware] ((https://github.com/shubhamaware18))
 
 Feel free to contribute to this project by submitting pull requests or opening issues for improvements or bug fixes.
